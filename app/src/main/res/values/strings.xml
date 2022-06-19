@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Foodies</string>
+
+    <string name="navigation_item_test_text">Средства индивидуальной защиты</string>
+    <string name="food_name_item_test_text">Том Ям</string>
+    <string name="food_weight_item_test_text">500 г</string>
+    <string name="food_price_item_test_text">720 ₽</string>
+    <string name="food_old_price_item_test_text"><strike>720 ₽</strike></string>
+    <string name="done">Готово</string>
+    <string name="choose_food">Подобрать блюда</string>
+    <string name="filter_item_test_text">Без мяса</string>
+
+
+    <array name="autosize_text_sizes">
+        <item>8sp</item>
+        <item>10sp</item>
+        <item>12sp</item>
+        <item>14sp</item>
+        <item>16sp</item>
+    </array>
+
+</resources>

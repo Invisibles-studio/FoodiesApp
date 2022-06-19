@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <!--Navigation tabs on MainActivity-->
+    <dimen name="card_corner_radius_ntm">8dp</dimen>
+    <dimen name="card_width_ntm">83dp</dimen>
+    <dimen name="card_height_ntm">40dp</dimen>
+    <dimen name="card_margin_start_ntm">8dp</dimen>
+    <dimen name="card_margin_end_ntm">16dp</dimen>
+
+</resources>
